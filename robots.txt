@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://reqilulblog.netlify.app/sitemap.xml
